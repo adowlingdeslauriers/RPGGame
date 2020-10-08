@@ -1,0 +1,19 @@
+{
+	"name": "Sir Reginald Knightsworth",
+	"stats":
+	{
+		"BaseStrength": 10,
+		"BaseAgility": 9,
+		"BaseIntelligence": 8
+	},
+	"inventory":
+	{
+		"name": "Leather Cap",
+		"amount": 1,
+		"properties":
+		{
+			"armour": 1,
+			"value": 10
+		}
+	}
+}

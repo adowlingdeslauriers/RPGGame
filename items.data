@@ -1,0 +1,15 @@
+{
+	"name": "Leather Cap",
+	"amount": 1,
+	"uid": 0,
+	"index": 0,
+	"properties":
+	{
+		"armour": 1,
+		"value": 10
+	},
+	"uses":
+	{
+		"effect1": "none"
+	}
+}
